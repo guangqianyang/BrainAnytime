@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Shell scripts
+*.sh
+
+# Checkpoints and model weights
+*.pth
+*.pt
+*.ckpt
+pretrain_checkpoints/
+saves/
+
+# Data (too large for git)
+data/
+
+# Logs and results
+logs/
+work_dir/
+results/
+*.log
+*.err
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
