@@ -2,7 +2,7 @@
 
 Official implementation of **BrainAnytime: Anatomy-Aware Cross-Modal Pretraining for Brain Image Analysis with Arbitrary Modality Availability**.
 
-> **Note:** This repository is under anonymous review. Author information will be provided upon paper acceptance.
+## Congrats: This paper has been early accepted (top 9%) by MICCAI 2026.
 
 ## Pretrained Weights
 
