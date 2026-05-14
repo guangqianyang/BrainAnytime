@@ -72,7 +72,8 @@ Organize your data as follows:
 ```
 
 Each Excel file should contain columns for subject IDs and file paths to the corresponding NIfTI images for each modality.
-
+## Attention
+To save training time, we preprocess the 3D multimodal image by following skull stripping, MN152 template co-registration, min–max normalization, and resampling to 128 × 128 ×128 in advance. The data loader only contains data augmentation during training.
 ## Usage
 
 ### Pretraining
