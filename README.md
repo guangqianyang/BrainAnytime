@@ -6,7 +6,7 @@ Official implementation of **BrainAnytime: Anatomy-Aware Cross-Modal Pretraining
 
 ## Pretrained Weights
 
-**The pretrained model weights will be publicly released upon acceptance of the paper.**
+**The pretrained model weights is available at [google drive](https://drive.google.com/file/d/1L49zJ_Apj2jJe88_iy6jLcmd6KUlnc5h/view?usp=sharing).**
 
 ## Overview
 
